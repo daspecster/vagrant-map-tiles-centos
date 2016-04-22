@@ -16,7 +16,7 @@
     #- include: ./tasks/osm-default-style.yml  # Use osm-bright-mobile instead, as the default style is not optimised for mobile
     - include: ./tasks/osm2pgsql.yml
     - include: ./tasks/osm-database.yml
-    - include: ./tasks/osm-australia.yml
+    - include: ./tasks/osm-michigan.yml
     - include: ./tasks/mod_tile-source.yml
     - include: ./tasks/renderd.yml
     - include: ./tasks/osm-bright-mobile.yml
